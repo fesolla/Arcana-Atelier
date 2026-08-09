@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "Web Page"
+views:
+  - type: table
+    name: Table
