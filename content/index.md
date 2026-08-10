@@ -5,6 +5,20 @@ dg-home: true
 # Plain text
 
 This is my Homepage123123123
+中文字中文字
+<p style="font-size:30">大號字</p>
+https://www.youtube.com/watch?v=MeTdLYHiA7A
+
+測試測試測試
+
+
+> [!NOTE] Title
+> Contents
+
+
+> [!Recite] Title
+> Contents
+
 
 # interlink
 [[interlink]]
