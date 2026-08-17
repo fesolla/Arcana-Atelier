@@ -1,3 +1,39 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+a.internal-link.alias {
+  background: none !important;
+}
+
+
+/* 字體設定：英文用 Georgia，中文用 Noto Serif TC，
+   靠瀏覽器逐字 fallback 自動切換，不依賴 html lang 屬性 */
+
+:is(
+  body,
+  h1, h2, h3, h4, h5, h6,
+  p, a, strong, em,
+  .callout-title,
+  .callout-content
+) {
+  font-family: Georgia, "Noto Serif TC", serif !important;
+}
+
+
+/* 所有側欄面板標題（Explorer、TOC、Graph、Backlinks...）都不要套用 
+   Obsidian 主題給「文章標題」用的大字級/行高/裝飾線 */
+
+:is(.title-button, .toc-header) :is(h2, h3) {
+  font-size: 1rem !important;
+  line-height: 1.4 !important;
+  font-weight: 600 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  height: auto !important;
+
+  &::after,
+  &::before {
+    content: none !important;
+    display: none !important;
+  }
+}
