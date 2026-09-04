@@ -38,6 +38,7 @@ title: About Me
   **《豔遊記》**
   **《逆轉封神》**
  [**《Alice Landing：愛莉絲迫降》**](https://store.steampowered.com/app/4117860/Alice_Landing/?l=schinese)(獨立遊戲)
+[**《索莉亞的魔爪 逃離魅魔之夜》**](https://store.steampowered.com/app/4054650/Claws_of_Soria_Escape_the_Succubus_Night/)(外包)
 
 <span style="font-size:19px;color:#960000">小說</span>
 
@@ -101,7 +102,13 @@ title: About Me
 > > 
 > > <span style="font-size:23px;color:#960000">哪有因為○○太好吃而在醫院開後宮這種事！！</span>
 >
+> > ### [[04_《索莉亞魔爪 逃離魅魔之夜》/04_《索莉亞魔爪 逃離魅魔之夜》.md|《索莉亞魔爪 逃離魅魔之夜》]]
+> > [![[索莉亞魔爪 逃離魅魔之夜_forbidden.jpg]]](04_《索莉亞魔爪_逃離魅魔之夜》/04_《索莉亞魔爪_逃離魅魔之夜》.md)
 > > 
+> > 倖存者X魔紋盤系統，倖存者玩法新組合。
+> > 
+> > 少女們深陷魅魔女王的控制，擁有「星紋血脈」的你，能抗拒媚魔魅惑，用你靈巧的手技與巨大的武器解救少女們的心靈與身體。
+
 
 
 
